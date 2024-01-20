@@ -7,7 +7,7 @@ public class PracticaSel {
 
 	public static void main(String[] args) {
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.twitter.com");
+		driver.get("https://www.google.com");
 
 	}
 
